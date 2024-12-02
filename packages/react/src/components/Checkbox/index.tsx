@@ -1,4 +1,4 @@
-import { Check } from "@phosphor-icons/react";
+import { Check } from "phosphor-react";
 import { CheckboxContainer, CheckboxIndicator } from "./styles";
 import { ComponentProps } from "react";
 

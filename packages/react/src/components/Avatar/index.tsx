@@ -1,4 +1,4 @@
-import { User } from "@phosphor-icons/react";
+import { User }  from "phosphor-react";
 import { AvatarContainer, AvatarFallback, AvatarImage } from "./styles";
 import { ComponentProps } from "react";
 
