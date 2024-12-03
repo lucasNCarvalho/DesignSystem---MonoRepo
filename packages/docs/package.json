@@ -1,5 +1,5 @@
 {
-  "name": "@ignite-ui/docs",
+  "name": "@ncarvalho-ui/docs",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -9,8 +9,8 @@
     "build": "storybook build"
   },
   "dependencies": {
-    "@ignite-ui/react": "*",
-    "@ignite-ui/tokens": "*",
+    "@ncarvalho-ui/react": "*",
+    "@ncarvalho-ui/tokens": "*",
     "polished": "^4.3.1",
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
