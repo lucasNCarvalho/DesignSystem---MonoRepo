@@ -1,0 +1,4 @@
+import{j as t}from"./jsx-runtime-OAISXtky.js";import{useMDXComponents as r}from"./index-DOvxcyG1.js";import{ag as s}from"./chunk-NUUEMKO5-mqseWc_N.js";import{T as m}from"./TokensGrid-CBIhIDsN.js";import{s as i}from"./index-BiOhbUpM.js";import"./index-qVDZzPEr.js";import"./iframe-CQwo1p1Y.js";import"../sb-preview/runtime.js";import"./index-DHJbZbmV.js";import"./index-ClewgdaX.js";import"./index-D-8MO0q_.js";import"./index-D2o5vtt7.js";import"./index-DrFu-skq.js";import"./client-CSH1JjNy.js";function n(o){const e={h1:"h1",p:"p",...r(),...o.components};return t.jsxs(t.Fragment,{children:[t.jsx(s,{title:"Tokens/Spaces"}),`
+`,t.jsx(e.h1,{id:"space",children:"Space"}),`
+`,t.jsx(e.p,{children:"Space"}),`
+`,t.jsx(m,{tokens:i,hasRemValue:!0})]})}function S(o={}){const{wrapper:e}={...r(),...o.components};return e?t.jsx(e,{...o,children:t.jsx(n,{...o})}):n(o)}export{S as default};
