@@ -23,6 +23,9 @@ jobs:
 
       - name: Build application
         run: npm run build
+        env: 
+          TURBO_TOKEN: 0YaSKrO51lAabXlVRlKXPl3Z
+          TURBO_TEAM: lucasnc10s-projects
 
       - name: Deploy Storybook
         working-directory: ./packages/docs
